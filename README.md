@@ -7,6 +7,7 @@ Complete Klipper configuration for the Mellow LLL Filament Plus Buffer with auto
 # Revisions 
 1/12/2026 - Updated config to use extra_stepper and force moves instead of the second extruder setup. 
             This avoids a few conflicts and allows the motor to be synced to the extruder
+          - Added filament runout switch logic. Can be enabled or disabled with Enable_Filament_Runout or Disable_Filament_Runout
 
 ## Features
 
