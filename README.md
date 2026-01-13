@@ -4,6 +4,10 @@ Complete Klipper configuration for the Mellow LLL Filament Plus Buffer with auto
 
 > **Note:** This is the Klipper configuration. For the Buffer Plus firmware source code, see the [main repository README](../README.md).
 
+# Revisions 
+1/12/2026 - Updated config to use extra_stepper and force moves instead of the second extruder setup. 
+            This avoids a few conflicts and allows the motor to be synced to the extruder
+
 ## Features
 
 - ✅ **Automatic Buffer Control** - Fills buffer automatically when filament is detected
